@@ -19,7 +19,3 @@ A lightweight task management app built in C++ using the raylib graphics library
 - **Language:** C++
 - **Graphics Library:** [raylib](https://www.raylib.com/)
 - **Development Environment:** Visual Studio
-
----
-
-## 📁 Project Structure
